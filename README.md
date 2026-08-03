@@ -42,7 +42,6 @@
 ### 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalnaik00002@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@GopalNaik)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Gopalnaik10&icon=2&color=2" alt="Profile Views" />
