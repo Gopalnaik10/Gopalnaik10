@@ -8,17 +8,15 @@ I enjoy building practical projects that combine data, intelligent systems, and 
 
 ### 🚀 Featured Projects
 
-* 🏋️ **[AI Gym Trainer](https://github.com/Gopalnaik10/AI-Gym-Trainer)** — Real-time computer vision fitness assistant that tracks exercise posture and counts repetitions.
+* 🏋️ **[AI Gym Trainer](https://github.com/Gopalnaik10/AI-Gym-Trainer)** — Real-time computer vision application for exercise pose tracking, repetition counting, and form analysis.
 
-* 🧠 **[Emotion Detection](https://github.com/Gopalnaik10/Emotion-detection)** — Computer vision and deep learning application for real-time facial emotion classification.
+* 🧠 **[Emotion Detection](https://github.com/Gopalnaik10/Emotion-detection)** — Real-time facial emotion recognition using computer vision and deep learning.
 
-* 📊 **[DataForge](https://github.com/Gopalnaik10/dataforge)** — Dataset-agnostic data quality and mining platform for cleaning, validation, outlier analysis, statistics, visualization, and automated data insights.
+* 🛠️ **[DataForge](https://github.com/Gopalnaik10/dataforge)** — Dataset-agnostic data quality and mining platform for preprocessing, validation, outlier detection, analysis, and visualization.
 
-* 📝 **[TextMind](https://github.com/Gopalnaik10/TextMind)** — Lightweight NLP platform for text mining, sentiment and emotion analysis, keyword extraction, topic modeling, clustering, and text similarity.
+* 📝 **[TextMind](https://github.com/Gopalnaik10/TextMind)** — Lightweight NLP platform for text mining, sentiment analysis, emotion detection, keywords, topics, clustering, and similarity.
 
-* 📄 **AI Resume Builder** — Application designed to help users create structured and professional resumes.
-
-* 📋 **Smart Attendance System** — Intelligent attendance management application designed to simplify and automate attendance tracking.
+* 👤 **[Real-Time Biometric Attendance System](https://github.com/Gopalnaik10/Real-Time-Biometric-Attendance-System)** — Real-time biometric attendance system designed to identify users and automate attendance recording.
 
 ---
 
